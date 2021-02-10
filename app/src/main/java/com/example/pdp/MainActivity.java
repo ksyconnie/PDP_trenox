@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         // setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
 
         // Hello Connext :D
+        // Soyoung confirmed and try push!
+
     }
 }
